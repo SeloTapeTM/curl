@@ -67,4 +67,5 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 Support this project by becoming a [sponsor](https://curl.se/sponsors.html).
 
-666 the number of the beast
+Never gonna give you up, Never gonna let you down!
+(I'm a student learning git right now and this is just a test, I'm sorry in advance for bothering you and I thank you for all of your work on this! have a great day!)
